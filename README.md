@@ -1,6 +1,6 @@
 ## Welcome!  I'm Luke.
 
-I'm a Research Scientist at Caltech/IPAC where I work on exoplanets and stars.
+I'm a research scientist at Caltech/IPAC where I work on exoplanets and stars.
 
 - 🪐 **[My website](https://lgbouma.com)** gives an overview of my research.
 - ⏱  **[gyro-interp](https://github.com/lgbouma/gyro-interp)** derives rotational ages for main-sequence FGK stars at the [empirical precision limit](https://ui.adsabs.harvard.edu/abs/2023ApJ...947L...3B/abstract).
